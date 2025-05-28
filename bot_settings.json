@@ -1,0 +1,6 @@
+{
+    "min_price": 10.0,
+    "max_price": 5000.0,
+    "min_profit": 5e-05,
+    "platform_fee": 0.0
+}
